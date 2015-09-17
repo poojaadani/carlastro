@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cbdd8af-4630-4291-81bb-9b4cf8b2aaf3" name="Default" comment="" />
+    <ignored path="AstroTheme1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="AstroTheme1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/page3/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="5712">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/page4/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="4726">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/page5/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="4709">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/page6/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="5049">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/page7/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="4811">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/page8/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="6222">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/page9/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="81" column="0" selection-start="2185" selection-end="2185" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="4726">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/2010/04/23/eruption-scatters-students-across-the-globe/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="0" selection-start="1347" selection-end="1347" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="4760">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="80" column="41" selection-start="2178" selection-end="2178" vertical-scroll-proportion="0.0" vertical-offset="1183" max-vertical-offset="4573">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="17" selection-start="927" selection-end="927" vertical-scroll-proportion="0.4578097" vertical-offset="102" max-vertical-offset="1020">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/feed.xml" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_site/about/index.html" />
+        <option value="$PROJECT_DIR$/_site/blog/2012/02/01/data-visualization-infographic-or-illustration/index.html" />
+        <option value="$PROJECT_DIR$/_site/blog/2012/03/02/a-twitter-debate-on-newspaper-opinion-what-would-wheaties-do-via-melaniesill/index.html" />
+        <option value="$PROJECT_DIR$/_site/blog/2012/04/03/on-the-importance-of-localism/index.html" />
+        <option value="$PROJECT_DIR$/_site/2012/05/22/raw-data-as-oxymoron/index.html" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/_site/page10/index.html" />
+        <option value="$PROJECT_DIR$/_site/page11/index.html" />
+        <option value="$PROJECT_DIR$/_site/page12/index.html" />
+        <option value="$PROJECT_DIR$/_site/page13/index.html" />
+        <option value="$PROJECT_DIR$/_site/page14/index.html" />
+        <option value="$PROJECT_DIR$/_site/page15/index.html" />
+        <option value="$PROJECT_DIR$/_site/page16/index.html" />
+        <option value="$PROJECT_DIR$/_site/page2/index.html" />
+        <option value="$PROJECT_DIR$/_site/page3/index.html" />
+        <option value="$PROJECT_DIR$/_site/page4/index.html" />
+        <option value="$PROJECT_DIR$/_site/page5/index.html" />
+        <option value="$PROJECT_DIR$/_site/page6/index.html" />
+        <option value="$PROJECT_DIR$/_site/page7/index.html" />
+        <option value="$PROJECT_DIR$/_site/page8/index.html" />
+        <option value="$PROJECT_DIR$/_site/page9/index.html" />
+        <option value="$PROJECT_DIR$/_site/2010/04/23/eruption-scatters-students-across-the-globe/index.html" />
+        <option value="$PROJECT_DIR$/_site/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AstroTheme1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AstroTheme1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="carlastro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="preferences.sourceCode" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cbdd8af-4630-4291-81bb-9b4cf8b2aaf3" name="Default" comment="" />
+      <created>1442464819357</created>
+      <updated>1442464819357</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25755286" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3273906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_site/page3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5712">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="4726">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="4709">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page6/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="5049">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page7/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="4811">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page8/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="6222">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page9/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="0" selection-start="2185" selection-end="2185" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="4726">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/2010/04/23/eruption-scatters-students-across-the-globe/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="1347" selection-end="1347" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="4760">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="41" selection-start="2178" selection-end="2178" vertical-scroll-proportion="0.0" vertical-offset="1183" max-vertical-offset="4573">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="29" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page15/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1888" selection-end="1888" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5627" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page16/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1888" selection-end="1888" vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="4131" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="4726" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="5712">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="4726">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="4709">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page6/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="5049">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page7/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="4811">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page8/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="6222">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page9/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="0" selection-start="2264" selection-end="2264" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="4726">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="671568" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_nav_menu_items/2011-11-12-clean.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_nav_menu_items/2011-11-12-home-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feed.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/about/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="171" column="60" selection-start="5550" selection-end="5550" vertical-scroll-proportion="0.20604914" vertical-offset="2798" max-vertical-offset="3332" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/blog/2012/02/01/data-visualization-infographic-or-illustration/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="239" column="60" selection-start="9120" selection-end="9120" vertical-scroll-proportion="0.20604914" vertical-offset="3954" max-vertical-offset="4488" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/blog/2012/03/02/a-twitter-debate-on-newspaper-opinion-what-would-wheaties-do-via-melaniesill/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="238" column="60" selection-start="8481" selection-end="8481" vertical-scroll-proportion="0.22727273" vertical-offset="3921" max-vertical-offset="4471" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/blog/2012/04/03/on-the-importance-of-localism/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="8" selection-start="1420" selection-end="1420" vertical-scroll-proportion="0.35454544" vertical-offset="315" max-vertical-offset="4454" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/2012/05/22/raw-data-as-oxymoron/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="234" column="108" selection-start="7996" selection-end="8030" vertical-scroll-proportion="-3.4615386" vertical-offset="3888" max-vertical-offset="4403" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="20" selection-start="222" selection-end="222" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="272" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page10/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1888" selection-end="1888" vertical-scroll-proportion="-4.769231" vertical-offset="1117" max-vertical-offset="4743" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page11/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1888" selection-end="1888" vertical-scroll-proportion="-4.5" vertical-offset="1124" max-vertical-offset="6970" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page12/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1888" selection-end="1888" vertical-scroll-proportion="-4.5" vertical-offset="1124" max-vertical-offset="5644" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page13/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1888" selection-end="1888" vertical-scroll-proportion="-4.5" vertical-offset="1124" max-vertical-offset="5542" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page14/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1888" selection-end="1888" vertical-scroll-proportion="-4.5" vertical-offset="1124" max-vertical-offset="5678" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page15/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1888" selection-end="1888" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="5627" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page16/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1894" selection-end="1894" vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="4131" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="4726" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="5712">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="4726">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="4709">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page6/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="5049">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page7/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="4811">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page8/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="4" selection-start="1887" selection-end="1887" vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="6222">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/page9/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="0" selection-start="2185" selection-end="2185" vertical-scroll-proportion="0.0" vertical-offset="1124" max-vertical-offset="4726">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/2010/04/23/eruption-scatters-students-across-the-globe/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="1347" selection-end="1347" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="4760">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="41" selection-start="2178" selection-end="2178" vertical-scroll-proportion="0.0" vertical-offset="1183" max-vertical-offset="4573">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="17" selection-start="927" selection-end="927" vertical-scroll-proportion="0.4578097" vertical-offset="102" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
